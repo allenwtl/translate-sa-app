@@ -1,1 +1,34 @@
-this is new file
+[
+    {
+        "term": "10010001",
+        "definition": "This is Chinese Language,Please translate to Japance.",
+        "context": "\u8fd9\u662f context\uff0c\u6211\u4e0d\u660e\u767d",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "10010002",
+        "definition": "System exception",
+        "context": "\u8fd9\u4e2akey\u8868\u8fbe\u7cfb\u7edf\u9519\u8bef\u7684\u610f\u601d",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "hs-h5-kh-vue.member.has.open.account",
+        "definition": "The user has already opened an account",
+        "context": "\u5f00\u6237\u4e1a\u52a1\u4e2d\uff0c\u7528\u6237\u5df2\u7ecf\u5f00\u6237",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "hs-h5-ku-vue.global.request.timeout",
+        "definition": "Request timed out, please try again",
+        "context": "\u8bf7\u6c42\u8d85\u65f6",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]
