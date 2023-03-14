@@ -13,6 +13,7 @@
     },
     "hs-h5-deposit-vue": {
         "member.not.open.account": "用户未开户",
-        "member.deposit.fail": "入金失败"
+        "member.deposit.fail": "入金失败",
+        "member.deposit.amount.error": "用户转入现金金额错误"
     }
 }
