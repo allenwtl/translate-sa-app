@@ -10,5 +10,8 @@
     },
     "请求超时": {
         "hs-h5-ku-vue.global.request.timeout": "请求超时，请重试"
+    },
+    "hs-h5-deposit-vue": {
+        "member.not.open.account": "用户未开户"
     }
 }
